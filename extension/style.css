@@ -1,0 +1,8 @@
+#stream_pagelet {
+  overflow: hidden !important;
+  height: 0px !important;
+}
+
+#rightCol {
+  width: 100% !important;
+}
